@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentCalculator</string>
+    <string name="title_text">Скрытый калькулятор!</string>
+    <string name="main_button_text">Перейти в калькулятор</string>
+    <string name="result_title_text">Результат вычислений:</string>
+    <string name="result_hind">Тут будет результат</string>
+    <string name="calc_title">Калькулятор</string>
+    <string name="line_calc">Число:</string>
+    <string name="calc_hind_text">Введите значение</string>
+    <string name="plus_btn">+</string>
+    <string name="minus_btn">-</string>
+    <string name="mult_btn">*</string>
+    <string name="div_btn">/</string>
+    <string name="calc_navigation_btn">Передать данные</string>
+</resources>
